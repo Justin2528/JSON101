@@ -2,19 +2,10 @@
   "posts": [
     {
       "id": 1,
-      "title": ""
+      "title": "Eeee"
     }
   ],
   "profile": {
     "name": "Justin2528"
   }
-},
-  "posts": [
-    {
-      "id": 2,
-      "title": "Idk"
-    }
-  ],
-  "profile": {
-    "name": "Justin2528"
-  }
+}
