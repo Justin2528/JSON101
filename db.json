@@ -5,6 +5,12 @@
       "title": "v1.0 release!",
       "message": "The first release!",
       "body": "You can't decide? Should I eat that cookie? well d>yesorno Should I eat that cookie and here you go."
+    },
+    {
+      "id": 2,
+      "title": "Bug fixed",
+      "message": "Dog say meow???",
+      "body": "Fixed the dog command because the footer said Meow."
     }
   ]
 }
