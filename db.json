@@ -2,10 +2,19 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": ""
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "Justin2528"
   }
-}
+},
+  "posts": [
+    {
+      "id": 2,
+      "title": "Idk"
+    }
+  ],
+  "profile": {
+    "name": "Justin2528"
+  }
