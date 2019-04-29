@@ -2,10 +2,10 @@
   "posts": [
     {
       "id": 1,
-      "title": "Eeee"
+      "title": "v1.0 release!",
+      "message": "The first release!",
+      "body": "You can't decide? Should I eat that cookie? well d>yesorno Should I eat that cookie and here you go."
     }
-  ],
-  "profile": {
-    "name": "Justin2528"
-  }
+  ]
 }
+  
