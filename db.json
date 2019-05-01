@@ -13,6 +13,13 @@
       "type": "Bug fixed",
       "message": "Dog say meow???",
       "body": "Fixed the dog command because the footer said Meow."
+    },
+   {
+      "id": 3,
+      "title": "Oh no da bomb!",
+      "type": "New command",
+      "message": "Ok am safe now...",
+      "body": "Boring? Well, here comes minesweeper"
     }
   ]
 }
