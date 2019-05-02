@@ -20,6 +20,13 @@
       "type": "New command",
       "message": "Ok am safe now...",
       "body": "Boring? Well, here comes minesweeper"
+    },
+   {
+      "id": 4,
+      "title": "Hmm ... blocks?... Servers?",
+      "type": "New command",
+      "message": "Is the server off? How many players are playing this mc server?",
+      "body": "Pow! That's right! /mcs (Minecraft Server Stats) command is here! Check how many players are on!  Is there server even on and more!"
     }
   ]
 }
